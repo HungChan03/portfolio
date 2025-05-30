@@ -173,24 +173,6 @@ footer{
     align-items: center;
     text-align: center;
   }
-   header nav ul {
-    display: none;
-    flex-direction: column;
-    background: white;
-    position: absolute;
-    top: 60px;
-    right: 1rem;
-    width: 150px;
-    border: 1px solid #ccc;
-    padding: 1rem;
-  }
-
-  header nav ul.show {
-    display: flex;
-  }
-
-  header nav ul li {
-    margin: 10px 0;
-  }
+  
   
 }   
